@@ -1,0 +1,13 @@
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.AssemblyInfo.cs
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\bin\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.exe
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\bin\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.deps.json
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\bin\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.runtimeconfig.json
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\bin\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.runtimeconfig.dev.json
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\bin\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.dll
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\bin\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.pdb
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.dll
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.pdb
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.genruntimeconfig.cache
+C:\Users\lukas\Documents\CSharp\02_Calculator_Corr_Phys_Val\Calculator_Corr_Phys_Val\obj\Debug\netcoreapp3.1\Calculator_Corr_Phys_Val.csprojAssemblyReference.cache
